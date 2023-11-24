@@ -62,6 +62,24 @@ Reemplazamos los antiguos archivos encabezados por los nuevos.
 Al tener funcionando este código indagamos la forma de activar el teclado mediante comandos de voz usando el ejemplo anterior sin embargo nos encontramos con la limitante de que la versión de placa actual no permite emular la presión de una tecla.
 Posteriormente concordamos la decisión de adaptarlo a las coordenadas del cursor del mouse (izquierda y derecha), para ello modificamos el código actual de reconocimiento de voz insertando parte del código dispuesto en el ejemplo de mouse que viene incluido en el arduino. Esto con la finalidad de mover el cursor una cierta cantidad de pixeles al reconocer las palabras que ingresamos en el modelo de Cyberon.
 
+[![Alt Text](https://img.youtube.com/vi/8grTfybc20g/0.jpg)](https://www.youtube.com/watch?v=8grTfybc20g)
+
+
+
+[![Alt Text](https://img.youtube.com/vi/941TCr3uhRg/0.jpg)](https://www.youtube.com/watch?v=941TCr3uhRg)
+
+
+
+[![Alt Text](https://img.youtube.com/vi/Z-iV4u0DJug/0.jpg)](https://www.youtube.com/watch?v=Z-iV4u0DJug)
+
+
+
+[![Alt Text](https://img.youtube.com/vi/4dYnY6ygIfE/0.jpg)](https://www.youtube.com/watch?v=4dYnY6ygIfE)
+
+
+
+[![Alt Text](https://img.youtube.com/vi/VNXHGU6LUkA/0.jpg)](https://www.youtube.com/watch?v=VNXHGU6LUkA)
+
 
 
 
